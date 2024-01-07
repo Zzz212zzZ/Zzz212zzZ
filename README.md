@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jie (Jeffro) Zeng</h1>
 <h3 align="center">A passionate software engineering student from Chongqing, China</h3>
 
-<img align="right" alt="Coding" width="400" src="./assets/DEEKAY.gif">
+<img align="right" alt="Coding" width="300" src="./assets/DEEKAY.gif">
 
 - 🔭 I’m currently exchanging in [UC Berkeley](https://eecs.berkeley.edu/)
 - 💡 I'm enthusiastic about **software engineering development**, **visual computing**, and **human-computer interaction (HCI)**
