@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
-    <a href="https://linkedin.com/in/jie zeng" target="blank">
+    <a href="https://www.linkedin.com/in/jeffro-zeng/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jie zeng" height="30" width="40" style="vertical-align: middle;" />
     </a>
     <a href="https://space.bilibili.com/209595019?spm_id_from=333.1007.0.0" target="blank" style="margin-left: 30px;"> <!-- Adjusted margin here -->
