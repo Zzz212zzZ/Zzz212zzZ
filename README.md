@@ -1,4 +1,4 @@
-[![MasterHead](./assets/github-header-image2.png)](https://github.com/Zzz212zzZ)
+[![MasterHead](./assets/github-header-image.png)](https://github.com/Zzz212zzZ)
 
 <h1 align="center">Hi 👋, I'm Jerry (Jie) Zeng</h1>
 <h3 align="center">A passionate software engineering student from Chongqing, China</h3>
