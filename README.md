@@ -5,15 +5,16 @@
 
 <img align="right" alt="Coding" width="300" src="./assets/DEEKAY.gif">
 
-- 🔭 I’m currently exchanging in [UC Berkeley](https://eecs.berkeley.edu/)
-- 💡 I'm enthusiastic about **software engineering development**, **visual computing**, and **human-computer interaction (HCI)**
-- 🌱 I’m currently learning **Computer Graphics**
+- 🔭 I’m a Computer Engineering master student at Carnegie Mellon University (CMU).
+- 💡 I'm enthusiastic about **fullstack development**, **frontend development**, and **human-computer interaction (HCI)**
+- 🚀 I've learned CS 61A, CS 169A, CS 169L, CS 184, CS 188, etc at **UC Berkeley**, and 15-513, 17-514, 14-735 etc at **CMU**. The topics include Software Engineering, Web Development, Computer Systems, Computer Graphics, Artificial Intelligence, and Security.
+- 🌱 I’m currently learning **Distributed Systems**
 - 👨‍💻 All of my projects are available at [https://github.com/Zzz212zzZ](https://github.com/Zzz212zzZ)
-- 📫 How to reach me **zengjie@berkeley.edu**
+- 📫 How to reach me **jerryzeng@cmu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/jeffro-zeng/" target="blank">
+    <a href="https://www.linkedin.com/in/jerry-zeng-cs/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jie zeng" height="30" width="40" style="vertical-align: middle;" />
     </a>
     <a href="https://space.bilibili.com/209595019?spm_id_from=333.1007.0.0" target="blank" style="margin-left: 30px;"> <!-- Adjusted margin here -->
